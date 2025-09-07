@@ -15,5 +15,6 @@ Stay tuned for regular updates and solutions to new challenges.
 | 2025-08-30 | ArrayDuplicates.py     | Array Duplicates     | Find and handle duplicate elements in an array. |
 | 2025-08-31 | HexGenerator.py        | Hex Generator        | Generates random hexadecimal color codes for UI/UX work. |
 | 2025-09-01 | TribonacciSequence.py  | Tribonacci Sequence  | Generates a Tribonacci sequence with step-by-step explanation in comments. |
+| 2025-09-07 | parse_roman_numeral.py | Roman Numeral Generator  | Generates defines a function to convert a Roman numeral string into its integer value. |
 
 ---
